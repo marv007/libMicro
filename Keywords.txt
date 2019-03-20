@@ -1,0 +1,4 @@
+display	KEYWORD1
+mostrar	KEYWORD2
+apagar	KEYWORD2
+configurar	KEYWORD3
